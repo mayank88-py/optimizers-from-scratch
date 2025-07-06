@@ -1,4 +1,4 @@
-# Gradient Descent from Scratch
+# Optimizers from Scratch
 
 A comprehensive implementation of various gradient descent algorithms using NumPy, built from scratch for educational and practical purposes.
 
