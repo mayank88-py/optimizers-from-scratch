@@ -10,7 +10,7 @@ Author: Mayank Kumar Kashyap
 """
 
 import numpy as np
-from gradient_descent import *
+from optimizers import *
 from utils import *
 
 def quick_test():
